@@ -1,32 +1,13 @@
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-, I'm Shivang Parmar</h1>
+<h1 align="left">Hey, I'm Shivang.</h1>
 
-- 🔭 I'm self-taught `Developer` & `Visual Designer`
-- 🌱 I’m currently learning **Next.JS, TypeScript & Backend**
-- 📫 Reach out me on my [**Email**](mailto:shivangparmar537@gmail.com)
-- 💬 Ask me about **Development & Design**
-- 🧑‍💻 I love to participate in hackathons
-- 👀 Checkout my [**bento.me/shivang-parmar**](https://bento.me/shivang-parmar)
+**Founder & Creative Director at [Apexia Labs](https://apexialabs.in/), working across design, technology and development.**
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivang-parmar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imsp_18) 
+I’m interested in the space where **products, brands and technology meet**.
 
-## Technology & Tools
+At Apexia Labs, **we work across creative direction, branding, strategy, product, web and development**, helping teams turn products into distinctive brands and digital experiences.
 
-- Langauges: `JavaScript` `Python`  `C/C++`  `TypeScript`  `Java`
-- Frameworks/Libraries: `React.JS` `Next.JS`  `Node.JS`  `Express.JS` 
-- Platform: `GitHub`  `Vercel`
-- Databases: `MySQL`  `MongoDB`
-- Design: `Figma` `Photoshop` `Framer`
-- Productivity: `Notion` `Excalidraw` `VS Code` `ChatGPT`
-- Misc: `TailwindCSS` `Shadcn UI`
+Outside of client work, I’m constantly experimenting with **AI, agents, creative tools and new ways of building**. I also draw a lot of inspiration from things outside of tech, especially **art, architecture, cinematography, calligraphy and typography**.
 
-## GitHub Stats:
- 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=tokyonight&hide_border=true" alt="imsp18" /> <img height="192px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imsp18&theme=tokyonight&layout=compact&count_private=true&hide_border=true" alt="imsp18" /><br>
-<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imsp18&&theme=tokyonight&hide_border=true&locale=en" alt="imsp18" /> -->
-</div>
-<br>
-<br>
+## Connect
 
+[LinkedIn](https://www.linkedin.com/in/shivang-parmar/) · [X](https://x.com/shivangpmr) · [Instagram](https://instagram.com/shivang.pmr)
